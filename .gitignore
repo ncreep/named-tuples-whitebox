@@ -1,0 +1,8 @@
+.vscode/
+.idea/
+.metals/
+.bloop/
+.bsp/
+.ammonite/
+metals.sbt
+.scala-build/
